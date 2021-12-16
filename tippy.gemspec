@@ -9,14 +9,14 @@ Gem::Specification.new do |spec|
   spec.email         = ["sgalbur@hotmail.com"]
 
   spec.summary       = "A gem for generating tip values based on the number of inputs"
-  spec.homepage      = "https://github.com/steve-galbur/tippy"
+  spec.homepage      = "https://rubygems.org/gems/tippy"
   spec.license       = "MIT"
   spec.required_ruby_version = ">= 2.4.0"
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'https://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
+  spec.metadata["source_code_uri"] = "https://github.com/steve-galbur/tippy"
   spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
 
   # Specify which files should be added to the gem when it is released.
